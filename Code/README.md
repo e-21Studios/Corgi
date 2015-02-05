@@ -1,1 +1,1 @@
-This motherfucker is for code and shit
+Code goes in this folder
