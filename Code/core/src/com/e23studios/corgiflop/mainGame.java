@@ -1,4 +1,5 @@
 package com.e23studios.corgiflop;
+//added a comment - Stuart
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
